@@ -2,15 +2,15 @@
 Title SQL FILE MIGRATION
 Color 0B
 :STEP1
-copy "full\wotlk_world\*.sql" "wotlk_world_full.sql"
+copy "wotlk_world\*.sql" "wotlk_world_full.sql"
 goto STEP2
 
 :STEP2
-copy "full\wotlk_chars\*.sql" "wotlk_chars_full.sql"
+copy "wotlk_chars\*.sql" "wotlk_chars_full.sql"
 goto STEP3
 
 :STEP3
-copy "full\wotlk_auth\*.sql" "wotlk_auth_full.sql"
+copy "wotlk_auth\*.sql" "wotlk_auth_full.sql"
 goto END
 
 :END
