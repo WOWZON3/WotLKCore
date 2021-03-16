@@ -1,4 +1,4 @@
-<div align="center"># ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore (3.3.5)
+# ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) <div align="center">TrinityCore (3.3.5)
 
 <h3><li>inkl. Transmogrification Vendor Patch</li></h3>
 
